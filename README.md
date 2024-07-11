@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/hirensinh1513/storeAPI.git
+git clone https://github.com/hirensinh1513/store_API.git
 cd storeAPI
 Install dependencies:
 
